@@ -50,8 +50,9 @@ Multi-tech implementation (Python, Java, C++, C#) for searching, booking, and ma
 ## 📈 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhish0407&color=blue)
+![Followers](https://img.shields.io/github/followers/Abhish0407?style=social)
 ![Top Language](https://img.shields.io/github/languages/top/Abhish0407)
-![Public Repos](https://img.shields.io/github/repos/Abhish0407?style=flat)
+
 
 ---
 
