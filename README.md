@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhishek Raj
 
-<!--
-**Abhish0407/Abhish0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst who enjoys turning raw data into clear insights using Python, SQL, and BI tools.  
+I build dashboards, analytical models, and automation pipelines that help drive better decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 📊 Keen interest in **Data Analytics, Dashboarding & Predictive Modeling**  
+- 💡 Passionate about **Tech, Marketing, and Business Strategy**  
+- 📈 Built a complete Live IPO Market Data Pipeline– Automated data collection & visualization using SQL, APIs & Power BI in my recent Internship
+- 📈 Experienced in **Power BI, Excel Analytics, PostgreSQL, APIs**, and dashboard storytelling  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 **Languages**
+- Python  
+- R  
+- SQL (PostgreSQL, MySQL)
+
+### 📊 **Data & Analytics**
+- Power BI, Tableau
+- Excel (Advanced)
+- Pandas · NumPy  · Matplotlib · Sci-kit · Seaborn
+- EDA, Data Cleaning, Visualization
+- APIs & Automation
+
+### 🛠 **Tools**
+- Git & GitHub  
+- VS Code  
+- Jupyter Notebook
+- Streamlit (for rapid deployment)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 **IPO Live Data Dashboard**
+Real-time IPO analytics using **PostgreSQL + APIs + Power BI**, enabling actionable financial insights.
+
+### 🔹 **Customer Shopping Behaviour Analysis**
+3,900+ records analyzed, retention & spend insights, Power BI dashboard.**
+
+### 🔹 **Flight Booking Management System**
+Multi-tech implementation (Python, Java, C++, C#) for searching, booking, and managing flight data.
+
+---
+
+## 📈 GitHub Stats
+![Abhishek’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekRaj&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekRaj&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+- LinkedIn: [](https://www.linkedin.com/in/abhishek-raj1234/)
+- Email: [](araj9797@gmail.com)
+
+---
+
+**Thanks for visiting my profile!**  
+Always open to collaboration, tech discussions, and new opportunities.
