@@ -41,7 +41,7 @@ I build dashboards, analytical models, and automation pipelines that help drive 
 Real-time IPO analytics using **PostgreSQL + APIs + Power BI**, enabling actionable financial insights.
 
 ### 🔹 **Customer Shopping Behaviour Analysis**
-3,900+ records analyzed, retention & spend insights, Power BI dashboard.**
+3,900+ records analyzed, retention & spend insights, Power BI dashboard.
 
 ### 🔹 **Flight Booking Management System**
 Multi-tech implementation (Python, Java, C++, C#) for searching, booking, and managing flight data.
