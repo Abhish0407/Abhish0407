@@ -50,8 +50,10 @@ Multi-tech implementation (Python, Java, C++, C#) for searching, booking, and ma
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhish0407&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhish0407&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abhish0407&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abhish0407&layout=compact&theme=tokyonight)
+
 
 ---
 
