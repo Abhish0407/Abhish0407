@@ -47,12 +47,11 @@ Real-time IPO analytics using **PostgreSQL + APIs + Power BI**, enabling actiona
 Multi-tech implementation (Python, Java, C++, C#) for searching, booking, and managing flight data.
 
 ---
-
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abhish0407&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abhish0407)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abhish0407&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abhish0407)
 
 
 
