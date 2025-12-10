@@ -49,15 +49,16 @@ Multi-tech implementation (Python, Java, C++, C#) for searching, booking, and ma
 ---
 
 ## 📈 GitHub Stats
-![Abhishek’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekRaj&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekRaj&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhish0407&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhish0407&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect With Me
-- LinkedIn: [](https://www.linkedin.com/in/abhishek-raj1234/)
-- Email: [](araj9797@gmail.com)
+- **LinkedIn:** [linkedin.com/in/abhishek-raj1234](https://linkedin.com/in/abhishek-raj1234)
+- **Email:** [araj9797@gmail.com](mailto:araj9797@gmail.com)
+
 
 ---
 
