@@ -47,15 +47,7 @@ Real-time IPO analytics using **PostgreSQL + APIs + Power BI**, enabling actiona
 Multi-tech implementation (Python, Java, C++, C#) for searching, booking, and managing flight data.
 
 ---
-## 📈 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abhish0407&color=blue)
-![Followers](https://img.shields.io/github/followers/Abhish0407?style=social)
-![Top Language](https://img.shields.io/github/languages/top/Abhish0407)
-
-
-
----
 
 ## 🤝 Connect With Me
 - **LinkedIn:** [linkedin.com/in/abhishek-raj1234](https://linkedin.com/in/abhishek-raj1234)
