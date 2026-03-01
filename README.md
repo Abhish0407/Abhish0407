@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhishek Raj  
 
-I'm a Data Analyst who enjoys turning raw data into clear insights using Python, SQL, and BI tools.  
+I'm PL-300 Certified Data Analyst who enjoys turning raw data into clear insights using Python, SQL, and BI tools.  
 I build dashboards, analytical models, and automation pipelines that help drive smarter decisions.
 
 ---
